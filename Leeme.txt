@@ -1,0 +1,7 @@
+📖 Glosario de términos
+Término:			Descripción:
+Monto enviado		Dinero que se transfiere antes de aplicar comisión
+Comisión		Cargo aplicado por PayPal (5.4 % + $0.30)
+Monto recibido		Total que se recibe después de descontar la comisión
+Monto deseado		Valor final que el receptor quiere recibir
+
