@@ -1,7 +1,3 @@
-# CalculadoraPaypal
-App para calcular comisiones de paypal
-
-
 # 💸 Calculadora de Comisión PayPal
 
 Aplicación gráfica desarrollada en **Python con Tkinter**, diseñada para calcular fácilmente la comisión aplicada por PayPal en transacciones típicas. El programa permite calcular el monto neto recibido o determinar cuánto se debe enviar para obtener una cantidad específica libre de comisiones.
